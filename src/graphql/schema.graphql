@@ -1,0 +1,5 @@
+type TodoMVC {
+  todoId: ID!
+  completed: Boolean!
+  description: String!
+}
